@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "Daneng Yang's academic personal websites"
+excerpt: "Postdoc in Physics at UCR"
 author_profile: true
 redirect_from: 
   - /about/
