@@ -10,13 +10,13 @@ redirect_from:
 
 Education
 ======
-2013--2018, Ph.D. of High Energy Physics, Department of Physics and State Key Laboratory of Nuclear Physics and Technology, Peking University, Beijing, China
-2009--2013, Bachelor of Physics Studies, Department of Physics, Peking University, Beijing, China
+* 2013--2018, Ph.D. of High Energy Physics, Department of Physics and State Key Laboratory of Nuclear Physics and Technology, Peking University, Beijing, China
+* 2009--2013, Bachelor of Physics Studies, Department of Physics, Peking University, Beijing, China
 
 Appointments
 ======
-2021--Present, Postdoc, University of California, Riverside, CA, US
-2018--2021, Postdoc, Tsinghua University, Beijing, China
+* 2021--Present, Postdoc, University of California, Riverside, CA, US
+* 2018--2021, Postdoc, Tsinghua University, Beijing, China
 
 Research interests
 ======
