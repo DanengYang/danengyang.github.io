@@ -16,7 +16,7 @@ Parametric and graph models
 ------
 I put my efforts into searching for simple rules under complex data. In works with Prof. Hai-Bo Yu (UCR). I conducted N-body simulations to investigate the reason a fluid model can be used to describe the evolution of self-interacting dark matter (SIDM) halos. I proposed a way to reduce a generic elastic scattering cross section into a constant one in a specific halo. Making use of the reduction formula as well as the universal behavior of gravothermal evolution, I further proposed a parametric model to enable modeling a population of cosmic SIDM halos based on a few analytic equations. 
 
-In another recent work with Prof. Yu, I realized that the distribution of dark matter halos has hidden topological structures that can be encoded using networks. I proposed a simple random graph model to generate these properties. This study provides a new angle of looking at the clustering of dark matter and is related to recent applications of graph neural networks in probing features of dark matter halos.
+In another recent work with Prof. Yu, we uncovered some hidden topological features in the distribution of dark matter halos and encoded them using networks. I proposed a simple random graph model to generate these properties. This study provides a new angle of looking at the clustering of dark matter and is related to recent applications of graph neural networks in probing features of dark matter halos.
 
 The nature of self-interacting dark matter
 ------
