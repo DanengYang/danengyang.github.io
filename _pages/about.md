@@ -8,6 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+Education
+======
+2013--2018, Ph.D. of High Energy Physics, Department of Physics and State Key Laboratory of Nuclear Physics and Technology, Peking University, Beijing, China
+2009--2013, Bachelor of Physics Studies, Department of Physics, Peking University, Beijing, China
+
+Appointments
+======
+2021--Present, Postdoc, University of California, Riverside, CA, US
+2018--2021, Postdoc, Tsinghua University, Beijing, China
+
 Research interests
 ======
 My recent research mainly focuses on understanding cosmic dark matter distribution. Dark matter comprises 80\% of the matter contents of the universe. Its evolution since the origin of the universe is a complicated non-linear process that has been modeled using cosmological simulations on supercomputers. Despite decades of research, its properties remain a mystery, including its mass and interactions beyond gravity. Aside from that, I have broad interests in cosmology and collider physics. Some of my previous works are related to the nature of symmetry breaking in the standard model of particle physics. 
