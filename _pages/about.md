@@ -50,6 +50,9 @@ tor’s suggestion), 125:111105, Sep 2020. URL: https://link.aps.org/doi/10.1103
 * Haipeng An and Daneng Yang. Direct detection of freeze-in inelastic dark matter. Phys. Lett. B, 818:136408, 2021. arXiv:2006.15672, doi:10.1016/j.physletb.2021.136408.
 * Daneng Yang and Hai-Bo Yu. Self-interacting dark matter and small-scale gravitational lenses in galaxy clusters. Phys. Rev. D, 104(10):103031, 2021. arXiv:2102.02375, doi:10.1103/PhysRevD.104.103031.
 
+Exploring the high redshift universe using the JWST data
+------
+
 
 Gauge boson searches
 ------
