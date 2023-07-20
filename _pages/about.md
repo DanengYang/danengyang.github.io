@@ -42,8 +42,7 @@ The nature of self-interacting dark matter
 My research focuses on detecting SIDM effects through observations. With Prof. Yu, and Prof. Haipeng An (THU), we demonstrated in a PRL paper (Editor's suggestion) that SIDM could enhance the tidal stripping of core-forming halos, which can facilitate the formation of galaxies that lack dark matter. With Prof. Yu, we examined strong lensing features in light of an observational excess of small-scale lenses and highlighted the differences between SIDM and cold dark matter (CDM) scenarios. Recently, I collaborated with Dr. Nadler and Prof. Yu to perform high-resolution cosmological simulations and demonstrated promising features of some strong velocity-dependent SIDM models in reproducing observational features. I continue to employ a combination of high-precision N-body simulations and analytic/semi-analytic models to uncover clues of SIDM in observations.
 
 _Related works_
-* Daneng Yang, Hai-Bo Yu, and Haipeng An. Self-interacting dark matter and the origin of ultradiffuse galaxies ngc1052-df2 and -df4. Phys. Rev. Lett. (Edi-
-tor’s suggestion), 125:111105, Sep 2020. URL: https://link.aps.org/doi/10.1103/PhysRevLett.125.111105, doi:10.1103/PhysRevLett.125.111105.
+* Daneng Yang, Hai-Bo Yu, and Haipeng An. Self-interacting dark matter and the origin of ultradiffuse galaxies ngc1052-df2 and -df4. Phys. Rev. Lett. (Editor’s suggestion), 125:111105, Sep 2020. URL: https://link.aps.org/doi/10.1103/PhysRevLett.125.111105, doi:10.1103/PhysRevLett.125.111105.
 * Ethan O. Nadler, Daneng Yang, and Hai-Bo Yu. An SIDM Solution to the Extreme Diversity of Low-mass Halo Properties. 6 2023. arXiv:2306.01830.
 * Daneng Yang, Ethan O. Nadler, and Hai-Bo Yu. Strong Dark Matter Self-interactions Diversify Halo Populations within and surrounding the Milky Way.Astrophys. J., 949(2):67, 2023. arXiv:2211.13768, doi:
 10.3847/1538-4357/acc73e.
@@ -74,8 +73,7 @@ Publications
 1. Daneng Yang, Ethan O. Nadler, Hai-Bo Yu, and Yi-Ming Zhong. A Parametric Model for Self-Interacting Dark Matter Halos. 5 2023. arXiv:2305.16176.
 2. Daneng Yang and Hai-Bo Yu. Gravothermal evolution of dark matter halos with differential elastic scattering. JCAP, 09:077, 2022. arXiv:2205.03392,
 doi:10.1088/1475-7516/2022/09/077.
-3. Daneng Yang, Hai-Bo Yu, and Haipeng An. Self-interacting dark matter and the origin of ultradiffuse galaxies ngc1052-df2 and -df4. Phys. Rev. Lett. (Edi-
-tor’s suggestion), 125:111105, Sep 2020. URL: https://link.aps.org/doi/10.1103/PhysRevLett.125.111105, doi:10.1103/PhysRevLett.125.111105.
+3. Daneng Yang, Hai-Bo Yu, and Haipeng An. Self-interacting dark matter and the origin of ultradiffuse galaxies ngc1052-df2 and -df4. Phys. Rev. Lett. (Editor’s suggestion), 125:111105, Sep 2020. URL: https://link.aps.org/doi/10.1103/PhysRevLett.125.111105, doi:10.1103/PhysRevLett.125.111105.
 4. Daneng Yang and Hai-Bo Yu. A graph model for the clustering of dark matter halos. 6 2022. arXiv:2206.05578.
 5. Yi-Ming Zhong, Daneng Yang, and Hai-Bo Yu. The impact of baryonic potentials on the gravothermal evolution of self-interacting dark matter haloes. 6 2023.arXiv:2306.08028.
 6. Ethan O. Nadler, Daneng Yang, and Hai-Bo Yu. An SIDM Solution to the Extreme Diversity of Low-mass Halo Properties. 6 2023. arXiv:2306.01830.
