@@ -61,13 +61,13 @@ In a different direction, I worked with Prof. Qiang Li (PKU), Prof. Yajun Mao (P
 Selected talks
 ------
 
-* PASCOS 2023, UC Irvine, CA, US. A Parametric Model for Self-Interacting Dark Matter Halos. https://indico.cern.ch/event/1188534/contributions/5425939/
-* Phenomenology Symposium 2022, University of Pittsburgh, PA, USA. A graph representation for the distribution of dark matter halos. https://indico.cern.ch/event/1089132/contributions/4855375/    
-* GalFRESCA 2022, Caltech, CA, USA. The Impact of Strong Dark Matter Self-Interactions on Dark Matter Halos Within and Surrounding the Milky Way. http://academicpages.github.io/files/Daneng_Yang_MWzin_2022.pdf
-* Cosmology from home 2022. Structure of dark matter halos with differential elastic scattering cross sections. https://cosmologyfromhome.com/cosmology-from-home-2022/schedule-2022/
-* The tenth workshop of the Long-Lived Particle Community. Exploring Uncharted Soft Displaced Vertices in Open Data. https://indico.cern.ch/event/1042226/contributions/4597245/
-* TeV Particle Astrophysics 2021. Searching for dark matter self-interactions in tidally formed ultra-diffuse galaxies and cluster substructures. https://indico.ihep.ac.cn/event/11934/contributions/14600/
-* The $26^{th}$ International Workshop on Weak Interactions and Neutrinos, UC Irvine, CA, US. Multi-Boson production cross sections at CMS. https://indico.fnal.gov/event/9942/contributions/116822/
+* PASCOS 2023, UC Irvine, CA, US. [A Parametric Model for Self-Interacting Dark Matter Halos.](https://indico.cern.ch/event/1188534/contributions/5425939/)
+* Phenomenology Symposium 2022, University of Pittsburgh, PA, USA. [A graph representation for the distribution of dark matter halos.](https://indico.cern.ch/event/1089132/contributions/4855375/)
+* GalFRESCA 2022, Caltech, CA, USA. [The Impact of Strong Dark Matter Self-Interactions on Dark Matter Halos Within and Surrounding the Milky Way.](http://academicpages.github.io/files/Daneng_Yang_MWzin_2022.pdf)
+* Cosmology from home 2022. [Structure of dark matter halos with differential elastic scattering cross sections.](https://cosmologyfromhome.com/cosmology-from-home-2022/schedule-2022/)
+* The tenth workshop of the Long-Lived Particle Community. [Exploring Uncharted Soft Displaced Vertices in Open Data.](https://indico.cern.ch/event/1042226/contributions/4597245/)
+* TeV Particle Astrophysics 2021. [Searching for dark matter self-interactions in tidally formed ultra-diffuse galaxies and cluster substructures.](https://indico.ihep.ac.cn/event/11934/contributions/14600/)
+* The $26^{th}$ International Workshop on Weak Interactions and Neutrinos, UC Irvine, CA, US. [Multi-Boson production cross sections at CMS.](https://indico.fnal.gov/event/9942/contributions/116822/)
   
 Publications
 ------
