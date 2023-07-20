@@ -20,7 +20,7 @@ Appointments
 
 Research interests
 ======
-My recent research mainly focuses on understanding cosmic dark matter distribution. Dark matter comprises 80\% of the matter contents of the universe. Its evolution since the origin of the universe is a complicated non-linear process that has been modeled using cosmological simulations on supercomputers. Despite decades of research, its properties remain a mystery, including its mass and interactions beyond gravity. Aside from that, I have broad interests in cosmology and collider physics. Some of my previous works are related to the nature of symmetry breaking in the standard model of particle physics. 
+My recent research mainly focuses on understanding cosmic dark matter distribution. Dark matter comprises 80% of the matter contents of the universe. Its evolution since the origin of the universe is a complicated non-linear process that has been modeled using cosmological simulations on supercomputers. Despite decades of research, its properties remain a mystery, including its mass and interactions beyond gravity. Aside from that, I have broad interests in cosmology and collider physics. Some of my previous works are related to the nature of symmetry breaking in the standard model of particle physics. 
 
 Parametric and graph models
 ------
