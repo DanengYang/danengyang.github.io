@@ -37,7 +37,7 @@ doi:10.1088/1475-7516/2022/09/077.
 * Yi-Ming Zhong, Daneng Yang, and Hai-Bo Yu. The impact of baryonic potentials on the gravothermal evolution of self-interacting dark matter haloes. 6 2023.arXiv:2306.08028.
 
 
-The nature of self-interacting dark matter
+Search for dark matter self-interacton and more 
 ------
 My research focuses on detecting SIDM effects through observations. With Prof. Yu, and Prof. Haipeng An (THU), we demonstrated in a PRL paper (Editor's suggestion) that SIDM could enhance the tidal stripping of core-forming halos, which can facilitate the formation of galaxies that lack dark matter. With Prof. Yu, we examined strong lensing features in light of an observational excess of small-scale lenses and highlighted the differences between SIDM and cold dark matter (CDM) scenarios. Recently, I collaborated with Dr. Nadler and Prof. Yu to perform high-resolution cosmological simulations and demonstrated promising features of some strong velocity-dependent SIDM models in reproducing observational features. I continue to employ a combination of high-precision N-body simulations and analytic/semi-analytic models to uncover clues of SIDM in observations.
 
@@ -48,7 +48,6 @@ _Related works_
 10.3847/1538-4357/acc73e.
 * Haipeng An and Daneng Yang. Direct detection of freeze-in inelastic dark matter. Phys. Lett. B, 818:136408, 2021. arXiv:2006.15672, doi:10.1016/j.physletb.2021.136408.
 * Daneng Yang and Hai-Bo Yu. Self-interacting dark matter and small-scale gravitational lenses in galaxy clusters. Phys. Rev. D, 104(10):103031, 2021. arXiv:2102.02375, doi:10.1103/PhysRevD.104.103031.
-
 
 Gauge boson searches
 ------
