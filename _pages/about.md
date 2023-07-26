@@ -20,8 +20,11 @@ Appointments
 * 2021--Present, Postdoc, University of California, Riverside, CA, US
 * 2018--2021, Postdoc, Tsinghua University, Beijing, China
 
-Probing new physics through astrophysical observations 
+Scientific Endeavors
 ======
+
+Probing new physics through astrophysical observations 
+------
 We are in an era of using multimessenger astrophysical observations to explore fundamental physics. With collaborators, I have explored a number of new physics scenarios, including self-interacting dark matter (SIDM), freeze-in dark matter, and axion dark matter. However, my primary focus has been SIDM, and I have performed substantial studies. With Prof. Hai-Bo Yu, and Prof. Haipeng An (THU), we demonstrated in a PRL paper (Editor's suggestion) that SIDM could enhance the tidal stripping of core-forming halos, which can facilitate the formation of galaxies that lack dark matter. With Prof. Yu, we examined strong lensing features in light of an observational excess of small-scale lenses and highlighted the differences between SIDM and cold dark matter (CDM) scenarios. Recently, I collaborated with Dr. Nadler and Prof. Yu to perform high-resolution cosmological simulations and demonstrated promising features of some strong velocity-dependent SIDM models in reproducing observational features. I continue to employ a combination of high-precision N-body simulations and analytic/semi-analytic models to uncover clues of SIDM in observations.
 
 _Related works_
