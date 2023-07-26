@@ -11,17 +11,14 @@ redirect_from:
 Welcome to my personal webpage! I am a researcher actively working on the fascinating realm of dark matter physics, covering astrophysics, cosmology, and particle physics. My primary focus is on probing new physics by studying astrophysical signatures and gaining a deeper understanding of the distribution of cosmic dark matter. While the existence of dark matter is firmly established through gravitational interaction, its properties, such as possible self-interactions and interactions with standard model particles, remain elusive. The hierarchical distribution of dark matter, arising from its complex non-linear evolution under gravity, adds another layer of complexity to the search for new physics effects. Excitingly, the realm of dark matter physics is witnessing groundbreaking advancements through existing and upcoming observations. Remarkable achievements, such as the stochastic gravitational wave, the merger of binary black holes, and massive galaxies at high redshifts, have enriched our understanding of the universe and brought us closer to unraveling the mystery features of dark matter. Beyond my work in dark matter physics, I have also dedicated efforts to searching for multi-gauge boson productions and interactions in collider experiments. Please feel free to explore my page to learn more about my research! If you have any questions or comments, don't hesitate to reach out.
 
 Education
-======
+------
 * 2013--2018, Ph.D. of High Energy Physics, Department of Physics and State Key Laboratory of Nuclear Physics and Technology, Peking University, Beijing, China
 * 2009--2013, Bachelor of Physics Studies, Department of Physics, Peking University, Beijing, China
 
 Appointments
-======
+------
 * 2021--Present, Postdoc, University of California, Riverside, CA, US
 * 2018--2021, Postdoc, Tsinghua University, Beijing, China
-
-Scientific Endeavors
-======
 
 Probing new physics through astrophysical observations 
 ------
