@@ -33,16 +33,18 @@ _Related works_
 * Ethan O. Nadler, Daneng Yang, and Hai-Bo Yu. An SIDM Solution to the Extreme Diversity of Low-mass Halo Properties. 6 2023. arXiv:2306.01830.
 
 
-Parametric and graph models
+Unraveling new physics confronting complicated data
 ------
-I put my efforts into searching for simple rules under complex data. In works with collaborators, I conducted N-body simulations to investigate the reason a fluid model can be used to describe the evolution of self-interacting dark matter (SIDM) halos. I proposed a reduction formula for a generic elastic scattering cross section to quantify its effect in a specific halo. Using this reduction formula and the universal behavior of gravothermal evolution, I further proposed a parametric model to model a population of cosmic SIDM halos based on a few analytic equations. In another recent work, I uncovered some hidden topological features in the distribution of dark matter halos and encoded them using networks. I proposed a simple random graph model to generate these properties. This study provides a new angle of looking at the clustering of dark matter and is related to recent applications of graph neural networks in probing features of dark matter halos.
+The energy density of the universe is dominated by two components, dark energy and dark matter, which are not accounted for in the standard model of particle physics. Investigating new physics beyond the standard model is actively researched in collider physics and cosmology. However, astrophysics faces challenges in probing new physics due to the nonlinear nature of structure formation and environmental influences, leading to uncertainties in accurate modeling.
+
+In works with collaborators, we proposed novel approaches to confronting these difficulties. In a JCAP paper (2022), we proposed a reduction formula for a generic elastic scattering cross section to quantify its effect in a specific halo. Using this reduction formula and the universal behavior of gravothermal evolution, we further proposed a parametric model to model a population of cosmic SIDM halos based on a few analytic equations. In another recent work, we uncovered some hidden topological features in the distribution of dark matter halos and encoded them using networks. We proposed a simple random graph model to generate these properties and demonstrated that the generated graphs are scale-free and self-similar. Our study provides a new angle of looking at the clustering of dark matter and is related to recent applications of graph neural networks in probing features of dark matter halos.
+
 
 _Related works_
-* Daneng Yang, Ethan O. Nadler, Hai-Bo Yu, and Yi-Ming Zhong. A Parametric Model for Self-Interacting Dark Matter Halos. 5 2023. arXiv:2305.16176.
+* Daneng Yang, Ethan O. Nadler, Hai-Bo Yu, and Yi-Ming Zhong. A Parametric Model for Self-Interacting Dark Matter Halos. 5 2023. arXiv:2305.16176. 
 * Daneng Yang and Hai-Bo Yu. Gravothermal evolution of dark matter halos with differential elastic scattering. JCAP, 09:077, 2022. arXiv:2205.03392,
 doi:10.1088/1475-7516/2022/09/077.
-* Daneng Yang and Hai-Bo Yu. A graph model for the clustering of dark matter halos. 6 2022. arXiv:220
-6.05578.
+* Daneng Yang and Hai-Bo Yu. A graph model for the clustering of dark matter halos. 6 2022. arXiv:2206.05578.
 * Yi-Ming Zhong, Daneng Yang, and Hai-Bo Yu. The impact of baryonic potentials on the gravothermal evolution of self-interacting dark matter haloes. 6 2023.arXiv:2306.08028.
 
 Gauge boson searches
