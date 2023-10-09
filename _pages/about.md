@@ -55,6 +55,7 @@ The Large Hadron Collider (LHC) serves as the most powerful apparatus for explor
 Selected talks
 ------
 
+* GALGRESCA 2023, UC Riverside, CA, US. [Analytic kernels for modeling the topological features and self-interactions in dark matter halos](https://danengyang.github.io/files/GALGRESCA23.pdf)
 * PASCOS 2023, UC Irvine, CA, US. [A Parametric Model for Self-Interacting Dark Matter Halos.](https://indico.cern.ch/event/1188534/contributions/5425939/attachments/2673771/4637857/pascos23DYv2.pdf)
 * Phenomenology Symposium 2022, University of Pittsburgh, PA, USA. [A graph representation for the distribution of dark matter halos.](https://indico.cern.ch/event/1089132/contributions/4855375/attachments/2441102/4181829/Daneng_Yang_pheno2022.pdf)
 * GalFRESCA 2022, Caltech, CA, USA. [The Impact of Strong Dark Matter Self-Interactions on Dark Matter Halos Within and Surrounding the Milky Way.](https://danengyang.github.io/files/Daneng_Yang_MWzin_2022.pdf)
