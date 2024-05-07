@@ -1,3 +1,3 @@
 ---
-redirect: https://myname.github.io/
+redirect: https://danengyang.github.io/
 ---
