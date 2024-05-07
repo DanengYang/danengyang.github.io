@@ -20,18 +20,6 @@ Appointments
 * 2021--Present, Postdoc, University of California, Riverside, CA, US
 * 2018--2021, Postdoc, Tsinghua University, Beijing, China
 
-Probing new physics through astrophysical observations 
-------
-We are in an era of using multimessenger astrophysical observations to explore fundamental physics. With collaborators, I have explored a number of new physics scenarios, ranging from self-interacting dark matter (SIDM), freeze-in dark matter, and axion dark matter. With Prof. Hai-Bo Yu, and Prof. Haipeng An (THU), we demonstrated in a PRL paper (Editor's suggestion) that SIDM could enhance the tidal stripping of core-forming halos, which can facilitate the formation of galaxies that lack dark matter. With Prof. Yu, we examined strong lensing features in light of an observational excess of small-scale lenses and highlighted the differences between SIDM and cold dark matter (CDM) scenarios. Recently, I collaborated with Dr. Ethan O. Nadler and Prof. Yu to perform high-resolution cosmological simulations and demonstrated promising features of some strong velocity-dependent SIDM models in reproducing observational features. 
-
-_Related works_
-* Daneng Yang, Hai-Bo Yu, and Haipeng An. Self-interacting dark matter and the origin of ultradiffuse galaxies ngc1052-df2 and -df4. Phys. Rev. Lett. (Editor’s suggestion), 125:111105, Sep 2020. URL: https://link.aps.org/doi/10.1103/PhysRevLett.125.111105, doi:10.1103/PhysRevLett.125.111105.
-* Daneng Yang, Ethan O. Nadler, and Hai-Bo Yu. Strong Dark Matter Self-interactions Diversify Halo Populations within and surrounding the Milky Way.Astrophys. J., 949(2):67, 2023. arXiv:2211.13768, doi:10.3847/1538-4357/acc73e.
-* Simeon Bird, Chia-Feng Chang, Yanou Cui, Daneng Yang. Enhanced Early Galaxy Formation in JWST from Axion Dark Matter? arXiv:2307.10302
-* Ethan O. Nadler, Daneng Yang, and Hai-Bo Yu. An SIDM Solution to the Extreme Diversity of Low-mass Halo Properties. 6 2023. arXiv:2306.01830.
-* Daneng Yang and Hai-Bo Yu. Self-interacting dark matter and small-scale gravitational lenses in galaxy clusters. Phys. Rev. D, 104(10):103031, 2021. arXiv:2102.02375, doi:10.1103/PhysRevD.104.103031.
-* Haipeng An and Daneng Yang. Direct detection of freeze-in inelastic dark matter. Phys. Lett. B, 818:136408, 2021. arXiv:2006.15672, doi:10.1016/j.physletb.2021.136408.
-
 Unraveling new physics confronting complicated data
 ------
 The energy density of the universe is dominated by two components, dark energy and dark matter, which are not accounted for in the standard model of particle physics. Investigating new physics beyond the standard model is actively researched in collider physics and cosmology. However, astrophysics faces challenges in probing new physics due to the nonlinear nature of structure formation and environmental influences, leading to uncertainties in accurate modeling.
@@ -44,6 +32,18 @@ _Related works_
 doi:10.1088/1475-7516/2022/09/077.
 * Daneng Yang and Hai-Bo Yu. A graph model for the clustering of dark matter halos. 6 2022. arXiv:2206.05578.
 * Yi-Ming Zhong, Daneng Yang, and Hai-Bo Yu. The impact of baryonic potentials on the gravothermal evolution of self-interacting dark matter haloes. 6 2023.arXiv:2306.08028.
+
+Probing new physics through astrophysical observations 
+------
+We are in an era of using multimessenger astrophysical observations to explore fundamental physics. With collaborators, I have explored a number of new physics scenarios, ranging from self-interacting dark matter (SIDM), freeze-in dark matter, and axion dark matter. With Prof. Hai-Bo Yu, and Prof. Haipeng An (THU), we demonstrated in a PRL paper (Editor's suggestion) that SIDM could enhance the tidal stripping of core-forming halos, which can facilitate the formation of galaxies that lack dark matter. With Prof. Yu, we examined strong lensing features in light of an observational excess of small-scale lenses and highlighted the differences between SIDM and cold dark matter (CDM) scenarios. Recently, I collaborated with Dr. Ethan O. Nadler and Prof. Yu to perform high-resolution cosmological simulations and demonstrated promising features of some strong velocity-dependent SIDM models in reproducing observational features. 
+
+_Related works_
+* Daneng Yang, Hai-Bo Yu, and Haipeng An. Self-interacting dark matter and the origin of ultradiffuse galaxies ngc1052-df2 and -df4. Phys. Rev. Lett. (Editor’s suggestion), 125:111105, Sep 2020. URL: https://link.aps.org/doi/10.1103/PhysRevLett.125.111105, doi:10.1103/PhysRevLett.125.111105.
+* Daneng Yang, Ethan O. Nadler, and Hai-Bo Yu. Strong Dark Matter Self-interactions Diversify Halo Populations within and surrounding the Milky Way.Astrophys. J., 949(2):67, 2023. arXiv:2211.13768, doi:10.3847/1538-4357/acc73e.
+* Simeon Bird, Chia-Feng Chang, Yanou Cui, Daneng Yang. Enhanced Early Galaxy Formation in JWST from Axion Dark Matter? arXiv:2307.10302
+* Ethan O. Nadler, Daneng Yang, and Hai-Bo Yu. An SIDM Solution to the Extreme Diversity of Low-mass Halo Properties. 6 2023. arXiv:2306.01830.
+* Daneng Yang and Hai-Bo Yu. Self-interacting dark matter and small-scale gravitational lenses in galaxy clusters. Phys. Rev. D, 104(10):103031, 2021. arXiv:2102.02375, doi:10.1103/PhysRevD.104.103031.
+* Haipeng An and Daneng Yang. Direct detection of freeze-in inelastic dark matter. Phys. Lett. B, 818:136408, 2021. arXiv:2006.15672, doi:10.1016/j.physletb.2021.136408.
 
 Gauge boson searches
 ------
