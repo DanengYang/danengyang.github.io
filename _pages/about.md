@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 My research explores the nature of dark matter and its role in shaping cosmic structure. I am particularly interested in understanding how the microscopic properties of dark matter influence the formation and evolution of galaxies, and how astrophysical observations can be used to uncover clues about the dark sector.
 
 To address these questions, I combine analytical modeling, numerical simulations, and observational studies. On the theory side, I develop efficient methods for describing the evolution of dark matter halos, including parametric models, effective descriptions of dark matter interactions, and graph-path-based measures that connect halo growth histories to their present-day structure. These tools provide a fast and physically transparent alternative to large-scale simulations while retaining much of their predictive power.
@@ -22,7 +23,7 @@ Beyond dark matter self-interactions, I am broadly interested in cosmic structur
 
 Appointments
 ------
-* 2025--Present, Associate Research Professor, Purple Mountain Observatory, CAS, Nanjing, China
+* 2024--Present, Associate Research Professor, Purple Mountain Observatory, CAS, Nanjing, China
 * 2021--2024, Postdoc, University of California, Riverside, CA, US
 * 2018--2021, Postdoc, Tsinghua University, Beijing, China
 
