@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Daneng Yang"
   avatar           : "profile.png"
-  bio              : "Postdoc in Physics"
-  location         : "Riverside, CA, USA"
-  employer         : "UCR"
+  bio              : "Associate Research Professor"
+  location         : "Purple Mountain Observatory, CAS, China"
+  employer         : "PMO"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "danengy@ucr.edu"
+  email            : "yangdn@pmo.ac.cn"
 #  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
