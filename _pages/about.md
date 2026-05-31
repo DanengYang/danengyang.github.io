@@ -31,9 +31,32 @@ Education
 
 Selected talks to learn about my recent research
 ------
-* GALGRESCA 2023, UC Riverside, CA, US. [Analytic kernels for modeling the topological features and self-interactions in dark matter halos](https://danengyang.github.io/files/GALGRESCA23.pdf)
+* 2026 Workshop on New Physics and Interdisciplinary Sciences (NPhiS 2026), Nanjing, China. [A Path-Likelihood Formulation of Galaxy Formation on Halo Graphs](https://indico.ihep.ac.cn/event/28588/contributions/218379/attachments/102597/138119/GPLM-NPhiS26.pdf)
   
 Publications
 ------
 https://inspirehep.net/authors/1246633?ui-citation-summary=true
 
+Daneng Yang ; Self-interacting dark matter with mass segregation: a unified explanation of dwarf cores and small-scale lenses, Sci.Bull. 71 (2026) 1349-1356
+
+Daneng Yang ; Path Measures for Stochastic Galaxy Formation on Layered Halo Graphs, 2603.15128 [astro-ph.GA]
+
+Daneng Yang ; Hai-Bo Yu ; Gravothermal evolution of dark matter halos with differential elastic scattering, Journal of Cosmology and Astroparticle Physics, 2022, 09: 077
+
+Daneng Yang ; Hai-Bo Yu; Haipeng An ; Self-Interacting Dark Matter and the Origin of Ultradiffuse Galaxies NGC1052-DF2 and -DF4, Physical Review Letters, 2020, 125(11):111105
+
+Daneng Yang ; Ethan O. Nadler; Hai-Bo Yu; Yi-Ming Zhong ; A parametric model for self-interacting dark matter halos, Journal of Cosmology and Astroparticle Physics, 2024, 02:032
+
+Daneng Yang ; Exploring self-interacting dark matter halos with diverse baryonic distributions: A parametric approach, Physical Review D, 2024, 110(10): 103044
+
+Daneng Yang ; Hai-Bo Yu ; Self-interacting dark matter and small-scale gravitational lenses in galaxy clusters, Physical Review D, 2021, 104(10): 103031
+
+Daneng Yang ; Ethan O. Nadler; Hai-Bo Yu ; Strong Dark Matter Self-interactions Diversify Halo Populations within and surrounding the Milky Way, The Astrophysical Journal, 2023, 949(2):67
+
+Daneng Yang ; Yue-Lin Sming Tsai; Yi-Zhong Fan; Diversifying halo structures in two-component self-interacting dark matter models via mass segregation, Physical Review D 112 (2025) 8, 8
+
+Daneng Yang ; Ethan O. Nadler; Hai-Bo Yu; Testing the parametric model for self-interacting dark matter using matched halos in cosmological simulations, Physics of the Dark Universe, 2025, 47: 101807
+
+Siyuan Hou; Daneng Yang; Nan Li; Guoliang Li; A universal analytic model for gravitational lensing by self-interacting dark matter halos, Journal of Cosmology and Astroparticle Physics, 2025, 08 (2025) 048
+
+Yi-Ying Wang; Daneng Yang; Keyu Lu; Yue-Lin Sming Tsai; Yi-Zhong Fan; Dark-Matter-Deficient Galaxies from Collisions: A New Probe of Bursty Feedback and Dark Matter Physics, e-Print: 2509.24270, accepted by the Astrophysical Journal Letters. 
