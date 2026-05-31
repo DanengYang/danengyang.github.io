@@ -34,8 +34,8 @@ Education
 
 Selected talks to learn about my recent research
 ------
-* CPS Autumn 2025: Particle Physics, Field Theory & Cosmology. [Joint Observational Signatures of Multicomponent, Self-Interacting Dark Matter](https://github.com/DanengYang/danengyang.github.io/blob/master/_talks/HEB25v2.pdf)
 * Seminar slides 2026. [Astrophysical Signatures of Self-Interacting Dark Matter: From Dark Substructures to Galaxy Clusters](https://github.com/DanengYang/danengyang.github.io/blob/master/_talks/TDLi2026Mar.pdf)
+* CPS Autumn 2025: Particle Physics, Field Theory & Cosmology. [Joint Observational Signatures of Multicomponent, Self-Interacting Dark Matter](https://github.com/DanengYang/danengyang.github.io/blob/master/_talks/HEB25v2.pdf)
 * 2026 Workshop on New Physics and Interdisciplinary Sciences (NPhiS 2026), Nanjing, China. [A Path-Likelihood Formulation of Galaxy Formation on Halo Graphs](https://indico.ihep.ac.cn/event/28588/contributions/218379/attachments/102597/138119/GPLM-NPhiS26.pdf)
   
 Publications
